@@ -2,8 +2,7 @@
 
 A machine learning-based web application to detect fake news articles, built with Python, Scikit-learn, and Streamlit.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/) 
-<!-- REPLACE THE LINK ABOVE WITH YOUR ACTUAL DEPLOYED APP LINK AFTER DEPLOYING -->
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fake-news-detection-byckd4sfkj5of3eazjxnvx.streamlit.app/)
 
 ## 🚀 Features
 
